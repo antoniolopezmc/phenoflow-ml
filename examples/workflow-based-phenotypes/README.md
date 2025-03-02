@@ -1,1 +1,0 @@
-A collection of basic examples (i.e., related to Workflow-based phenotypes) can be fount at [src/web/test](../../src/web/test).
